@@ -11,16 +11,20 @@ A simple web app to search colleges by state name in India.
 ## Tech Used
 - HTML
 - CSS (Flexbox, Responsive Design)
-- JavaScript (Axios)
+- JavaScript (DOM Manipulation)
 
 ## How to Use
 1. Enter an Indian state name in the search box
-   (example: Rajasthan, Maharashtra, Delhi)
+   (example: Rajasthan, Maharashtra, Delhi, Punjab)
 2. Click the Search button
 3. List of colleges from that state will appear
 
-## Live Demo
-[Click here to view]
+## States Available
+Rajasthan, Maharashtra, Delhi, Karnataka, Gujarat,
+Tamil Nadu, Kerala, Uttar Pradesh, West Bengal, Bihar,
+Madhya Pradesh, Andhra Pradesh, Punjab, Haryana,
+Himachal Pradesh, Uttarakhand, Assam, Odisha,
+Jharkhand, Chhattisgarh, Goa, Manipur, Meghalaya, Tripura
 
-## API Used
-[Hipolabs Universities API](http://universities.hipolabs.com)
+## Live Demo
+[Click here to view](https://yourusername.github.io/college-search-app)
