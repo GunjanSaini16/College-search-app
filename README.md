@@ -27,4 +27,4 @@ Himachal Pradesh, Uttarakhand, Assam, Odisha,
 Jharkhand, Chhattisgarh, Goa, Manipur, Meghalaya, Tripura
 
 ## Live Demo
-[Click here to view](https://yourusername.github.io/college-search-app)
+[Click here to view](https://gunjansaini16.github.io/College-search-app/)
